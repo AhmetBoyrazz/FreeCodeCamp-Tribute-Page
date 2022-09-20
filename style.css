@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    background-color: #a9a9a9;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    margin: 20px
+  }
+  
+  figure#img-div {
+    margin: auto;
+  }
+  
+  img#image {
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9em;
+  }
